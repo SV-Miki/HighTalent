@@ -51,6 +51,7 @@ hightalent/
 ├── Dockerfile
 ├── docker-compose.yml
 ├── requirements.txt
+├── .gitignore.py
 ├── manage.py
 └── .env
 ```
